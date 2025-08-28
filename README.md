@@ -214,7 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or run into issues:
-
 1. Check the [Issues](https://github.com/SurajKhodade15/llm_chatbot_genai/issues) page
 2. Create a new issue with detailed information
 3. Join our community discussions
